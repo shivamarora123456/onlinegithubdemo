@@ -1,1 +1,21 @@
-Hi how are u?
+1. Go to github.org -> create a repository -> give it name(eg - abcdef)
+
+2. Now go to cmd -> type "mkdir abcdef"
+
+3. u will find this folder in "abcdef" name in 
+     user-> Shivam Arora -> abcdef
+
+4. go to cmd -> "echo newfile.txt" ->"touch newfile.txt"
+
+5. cmd -> "git init" -> "git status" -> git add ." -> git status
+
+6. "git commit -m "newfile added" "
+
+
+7. go to git hub repository -> coppy paste that line  "git remote............" line in cmd
+
+8. git push -u origin master
+
+9.now if u want to update stuff then
+
+edit it -> go to cmd -> "git status" -> "git add ." -> "git commit -m "updated file" " -> "git push"
